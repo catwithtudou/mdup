@@ -18,6 +18,5 @@ func main(){
   r.POST("/upload",api.DoFileUpload)
   r.GET("/upload",api.FileUpload)
   r.Run(":8081")
-
 }
 

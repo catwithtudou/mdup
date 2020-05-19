@@ -6,8 +6,8 @@ package config
  */
 
 const(
-	AccessKey = "*"
-	SecretKey = "*"
-	Bucket = "*"
-	Domain = "*"
+	AccessKey = "MmC_mbt2pelp1PPnwJwGQM8pUQtiZrAHv7G1xh5c"
+	SecretKey = "IKZGDUIq6Inv7qJtPnSiaj-6-G6BmYxyYq2EevJ1"
+	Bucket = "zhengyua"
+	Domain = "http://img.zhengyua.cn/"
 )
